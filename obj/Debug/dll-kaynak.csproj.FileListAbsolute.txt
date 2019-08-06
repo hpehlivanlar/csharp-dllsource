@@ -1,0 +1,5 @@
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\dll-kaynak\bin\Debug\dll-kaynak.dll
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\dll-kaynak\bin\Debug\dll-kaynak.pdb
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\dll-kaynak\obj\Debug\dll-kaynak.csproj.CoreCompileInputs.cache
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\dll-kaynak\obj\Debug\dll-kaynak.dll
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\dll-kaynak\obj\Debug\dll-kaynak.pdb
